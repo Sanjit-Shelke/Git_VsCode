@@ -12,7 +12,6 @@ Some Check before Started working with git and VsCode
 2. Write commit message then select "Commit" or "Commit All" or click on "Tick".
 3. Select "Commit All(Ammend)" for Ammending previous Commit.
 
-//Changed on GitHub Server!
 
 //To push Project or Folder on Github
 1. Create Repo on github.
@@ -20,6 +19,8 @@ Some Check before Started working with git and VsCode
     1] git remote add origin https://github.com/Sanjit-Shelke/Git_VsCode.git
     2] git branch -M main
     3] git push -u origin main
+
+
     
 
 
