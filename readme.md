@@ -12,6 +12,7 @@ Some Check before Started working with git and VsCode
 2. Write commit message then select "Commit" or "Commit All" or click on "Tick".
 3. Select "Commit All(Ammend)" for Ammending previous Commit.
 
+//Changed on GitHub Server!
 
 //To push Project or Folder on Github
 1. Create Repo on github.
