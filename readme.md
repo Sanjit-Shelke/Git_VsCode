@@ -12,5 +12,6 @@ How to commit
 2. Write commit message then select "Commit" or "Commit All" or click on "Tick".
 3. Select "Commit All(Ammend)" for Ammending previous Commit.
 
+//Changed on GitHub Server!
 
 
